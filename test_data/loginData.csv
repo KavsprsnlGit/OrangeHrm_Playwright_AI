@@ -1,0 +1,4 @@
+Username,Password,Expected
+$ORANGEHRM_USERNAME,$ORANGEHRM_PASSWORD,Dashboard
+fakeuser,fakepass,Invalid credentials
+ESSUser1,ess123,Invalid credentials
